@@ -1,0 +1,14 @@
+@page{
+    size:A4;
+    margin: none;
+}
+
+
+#print-btn{
+    display:none;
+    visibility: none;
+   
+}
+.button{
+    padding: 20px;
+}
